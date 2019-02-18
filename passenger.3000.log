@@ -1,0 +1,8 @@
+[ N 2019-02-13 17:28:44.0349 15408/T1 age/Wat/WatchdogMain.cpp:1366 ]: Starting Passenger watchdog...
+[ N 2019-02-13 17:28:44.0744 15411/T1 age/Cor/CoreMain.cpp:1339 ]: Starting Passenger core...
+[ N 2019-02-13 17:28:44.0747 15411/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2019-02-13 17:28:44.0859 15411/T1 age/Cor/CoreMain.cpp:1014 ]: Passenger core online, PID 15411
+[ N 2019-02-13 17:28:47.4489 15411/T6 age/Cor/SecurityUpdateChecker.h:519 ]: Security update check: no update found (next check in 24 hours)
+App 15456 output: esta app corre en el puerto 3000
+App 15505 output: esta app corre en el puerto 3000
+App 15554 output: esta app corre en el puerto 3000
